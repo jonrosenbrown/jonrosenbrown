@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**jonrosenbrown/jonrosenbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Jon Rosenberger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Support operations leader and AI workflow builder focused on human-centered systems, troubleshooting, and operational design.
+
+## Current Projects
+- Nour — local-first mood tracking app focused on privacy and trend-based emotional reflection
+- AI-assisted workflow and automation experiments
+- Support tooling and operational systems design
+
+## Background
+12+ years in customer support and operations leadership across SaaS and public safety technology.
+
+Focused on:
+- AI orchestration
+- workflow design
+- support operations
+- product thinking
+- UX iteration
+- troubleshooting systems
+
+## Links
+- Portfolio: coming soon
+- LinkedIn: [your linkedin]
